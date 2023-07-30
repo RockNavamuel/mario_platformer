@@ -5,6 +5,7 @@ Objective: The goal is to last long enough to collect 10 "Stars" while avoiding 
 
 Instructions: Use WASD keys for all movement. Hold "W" to quickly jump through platforms, but watch out for falling objects!
 
-Tutorial:
+Demo:
+
 https://github.com/RockNavamuel/mario_platformer/assets/94022495/325f1861-8da2-44d6-96db-bbacb4fa2a8d
 
