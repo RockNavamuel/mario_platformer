@@ -2,6 +2,7 @@
 In this project, I created a Mario platformer game. Enjoy!
 
 Objective: The goal is to last long enough to collect 10 "Stars" while avoiding falling objects and enemies.
+
 Instructions: Use WASD keys for all movement. Hold "W" to quickly jump through platforms, but watch out for falling objects!
 
 Tutorial:
